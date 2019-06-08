@@ -1,5 +1,5 @@
 owner=552936847202975760
- -= prefix 
+ prefix = - 
 game= Faris bot.
 stayinchannel=true
 songinstatus=false
