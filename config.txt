@@ -1,6 +1,6 @@
 owner=552936847202975760
  -= prefix 
-game=play
+game= Faris bot.
 stayinchannel=true
 songinstatus=false
 token=NTg2OTQyNDUzMjA3MjY5Mzk2.XPvXHw.0L2MgmN6PPyGlY6kWly_jSrl5c8
